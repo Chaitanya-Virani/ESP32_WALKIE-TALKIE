@@ -10,7 +10,9 @@
 
 ---
 ## 🖼️ Module Image
-![Module Image](Assets/module_image.jpeg)
+<p align="center">
+  <img src="Assets/module_image.jpeg" width="400"/>
+</p>
 
 
 ## 🚀 Overview
@@ -39,8 +41,9 @@ It functions like a **walkie-talkie**, enabling direct device-to-device voice tr
 ---
 
 ## 🖼️ System Diagram
-![System Diagram](Assets/system_diagram.png)
-
+<p align="center">
+  <img src="Assets/system_diagram.png" width="900"/>
+</p>
 ---
 
 ## 🔧 Hardware Required
@@ -112,20 +115,25 @@ Built robust **half-duplex TX/RX switching system**
 
 ---
 
-## ⚡ Quick Start
+## 🔁 Operation
 
-```bash
-git clone https://github.com/Chaitanya-Virani/ESP32_WALKIE-TALKIE.git
+| Action | Mode |
+|-------|------|
+| Button Pressed | Transmit |
+| Button Released | Receive |
 
-🧠 Key Learnings
-Real-time embedded communication design
-Wireless protocol optimization (ESP-NOW)
-Signal processing for noisy environments
-Buffering strategies for jitter handling
-Hardware + software co-design
-🚀 Future Improvements
-Full-duplex communication
-Audio compression (ADPCM / µ-law)
-Echo cancellation
-Multi-device broadcasting
-Encryption support
+## 🧠 Key Learnings
+
+- Real-time embedded communication design  
+- Wireless protocol optimization (ESP-NOW)  
+- Signal processing for noisy environments  
+- Buffering strategies for jitter handling  
+- Hardware + software co-design  
+
+## 🚀 Future Improvements
+
+- Full-duplex communication  
+- Audio compression (ADPCM / µ-law)  
+- Echo cancellation  
+- Multi-device broadcasting  
+- Encryption support  
