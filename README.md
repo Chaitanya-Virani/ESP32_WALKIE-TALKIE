@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
-![PHYSICAL DESIGN]("./module image.jpeg")
+![module image]("./module image.jpeg")
 ## 🚀 Overview
 
 This project implements a **real-time wireless audio communication system** using two ESP32 devices and the **ESP-NOW protocol**.
@@ -37,7 +37,7 @@ It functions like a **walkie-talkie**, enabling direct device-to-device voice tr
 
 ## System Diagram
 
-![System Diagram]("./diagram.png")
+![diagram]("./diagram.png")
 
 ---
 
